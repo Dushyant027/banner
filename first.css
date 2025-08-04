@@ -1,0 +1,94 @@
+.head-1 {
+    margin: 0;
+    padding: 0;
+    width: 800px;
+    height: 400px;
+    background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb');
+    background-size: cover;
+    margin-top: 200px;
+    margin-bottom:200px;
+    margin-left: 200px;
+    margin-right:200px;
+    box-shadow: 0 8px 12px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.name {
+    text-align: left;
+    padding-left: 100px;
+    padding-top: 50px;
+    margin:0px;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+
+}
+
+.theory {
+    float: left;
+    padding-left: 100px;
+    color: white;
+    padding-bottom:100px;
+}
+
+.logo {
+    width: 200px;
+    height: 80px;
+    float: right;
+    padding-right: 100px;
+    padding-top: 60px;
+}
+
+.A {
+    float: right;
+    display: flex;
+    padding-right: 100px;
+}
+
+.B {
+    display: flex;
+    float: right;
+    padding-right: 100px;
+}
+
+.C {
+    float: right;
+    display: flex;
+   padding-right: 100px;
+}
+
+.logo-1 {
+    width: 30px;
+    height: auto;
+    margin-right: 25px;
+}
+
+.logo-2 {
+    width: 30px;
+    height: auto;
+    margin-right: 25px;
+
+}
+
+.logo-3 {
+    width: 30px;
+    height: auto;
+    margin-right: 25px;
+    margin-top:5px;
+}
+
+.number-1 {
+    margin-right: 22px;
+    margin-top:10px;
+}
+
+.number-2 {
+    margin-right: 21px;
+    margin-top:10px;
+
+}
+
+.number-3 {
+    margin-right: 20px;
+
+}
